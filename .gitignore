@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Four Square Config
-four_square.cfg
+four_square_config.py
