@@ -130,3 +130,6 @@ dmypy.json
 
 # Four Square Config
 four_square_config.py
+
+# Unsave .docx
+~$*
